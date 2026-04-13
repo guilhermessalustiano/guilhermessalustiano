@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **guilhermessalustiano/guilhermessalustiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science Student
+## Muito prazer! Sou **Guilherme Salustiano**, estudante de Ciência da Computação!
+
+Sou formado no curso técnico integrado ao Ensino Médio de **Desenvolvimento de Sistemas** na ETEC Bento Quirino. Atualmente, curso **Ciência da Computação** na UNIP (Universidade Paulista) e irei me formar em dezembro de 2026!
+
+Como experiência profissional, fui **Estagiário de TI** na Unicamp, na unidade do Nudecri / Labjor ao longo de 2 anos!
