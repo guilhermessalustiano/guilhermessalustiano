@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Muito prazer! Sou **Guilherme Salustiano**, estudante de Ciência da Computação!
+## Olá! Sou **Guilherme Salustiano**, estudante de Ciência da Computação!
 
 Formado no curso técnico integrado ao Ensino Médio de **Desenvolvimento de Sistemas** na ETEC Bento Quirino. Atualmente, curso **Ciência da Computação** na UNIP (Universidade Paulista) e irei me formar em dezembro de 2026!
 Como experiência profissional, fui **Estagiário de TI** na Unicamp, na unidade do Nudecri / Labjor ao longo de 2 anos!
@@ -28,4 +28,6 @@ Como experiência profissional, fui **Estagiário de TI** na Unicamp, na unidade
 - JQuery
 - Bootstrap
 - Administração de servidores Linux
+- Shell Script
 - Servidor Web Nginx
+- Python
