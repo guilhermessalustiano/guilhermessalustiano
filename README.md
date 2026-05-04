@@ -11,11 +11,9 @@
 
 Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio. Desenvolvedor Web, Python e Administrador de Servidores e Sistemas Linux. Atualmente focado em projetos pessoais, buscando aprimorar meus conhecimentos.
 
+# Formações
 - Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (ETEC Bento Quirino)
 - Graduando em Ciência da Computação (UNIP) - 7º semestre
-- Desenvolvimento Web
-- Python
-- Administração de Servidores e Sistemas Linux
 
 # Experiências Profissionais:
 - Estagiário de TI na Unicamp - Nudecri / Labjor (2024-2026)
@@ -58,6 +56,14 @@ Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Si
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+</div>
+
+<div aligh="left">
+  # Habilidades
+  - Desenvolvimento Web utilizando HTML, CSS, JS, PHP, JQuery e Bootstrap
+  - Desenvolvimento Python
+  - Administração de Servidores Linux
+  - Desenvolvimento e Manutenção de sites Wordpress
 </div>
 
 </td>
