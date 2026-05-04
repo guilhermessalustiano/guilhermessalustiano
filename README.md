@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou Guilherme Salustiano!</h1>
+<h1 align="center">Olá! Eu sou Guilherme Salustiano!</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 
 # Sobre Mim
 
-Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio. Desenvolvedor Web, Python e Administrador de Servidores e Sistemas Linux. Atualmente focado em projetos que exploram novos conceitos ou que aprimoram ideias já existentes.
+Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio. Desenvolvedor Web, Python e Administrador de Servidores e Sistemas Linux. Atualmente focado em projetos pessoais, buscando aprimorar meus conhecimentos.
 
 - Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (ETEC Bento Quirino)
 - Graduando em Ciência da Computação (UNIP) - 7º semestre
@@ -17,7 +17,7 @@ Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Si
 - Python
 - Administração de Servidores e Sistemas Linux
 
-Experiências Profissionais:
+# Experiências Profissionais:
 - Estagiário de TI na Unicamp - Nudecri / Labjor (2024-2026)
 
 ---
