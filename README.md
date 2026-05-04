@@ -58,13 +58,11 @@ Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Si
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
 </div>
 
-<div aligh="left">
   # Habilidades
   - Desenvolvimento Web utilizando HTML, CSS, JS, PHP, JQuery e Bootstrap
   - Desenvolvimento Python
   - Administração de Servidores Linux
   - Desenvolvimento e Manutenção de sites Wordpress
-</div>
 
 </td>
         
