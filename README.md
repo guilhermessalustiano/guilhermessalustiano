@@ -23,7 +23,7 @@ Graduando em Ciência da Computação. Formado Técnico em Desenvolvimento de Si
 # Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-salustiano-5051b627a/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-salustiano/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:guilherme.salu05@gmail.com" target="_blank">
