@@ -4,12 +4,10 @@
 
 # GUILHERME SALUSTIANO
 
-**Desenvolvimento · Infraestrutura**
-
 </div>
 
 - Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (ETEC Bento Quirino)
-- Ciência da Computação (UNIP).
+- Graduando em Ciência da Computação (UNIP Campinas) - conclusão prevista para Dez/2026
 
 <a href="https://www.linkedin.com/in/guilherme-salustiano/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" />
@@ -73,7 +71,7 @@
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [**SCACE**](https://github.com/guilhermessalustiano/scace) | Sistema de Cálculo de Custo de Entrega para entregadores de plataformas como Mercado Livre, Shopee e iFood. Gerencia agências, veículos, usuários e rotas, calculando o gasto de combustível de cada rota. | React · Node.js · Prisma · MariaDB |
-| [**TCC**](https://github.com/guilhermessalustiano/tcc-2) | Sistema Web para Ateliê e Estúdio de Tatuagem (Kolô), com venda e catálogo de obras, agendamento para tatuagem, cadastro de visitantes, clientes, artistas e administradores. Desenvolvido em grupo | React · Next.js · Prisma · PostgreSQL
+| [**Kolô**](https://github.com/caioalves19/tcc-2) | TCC desenvolvido em equipe. Sistema Web para Ateliê e Estúdio de Tatuagem, com catálogo de obras, agendamento de tatuagem, checkout, carrinho, painel administrativo, cadastro de tipos visitante, cliente, artista e administrador. Fork local. | Next.js · Prisma · PostgreSQL
 | [**TrocArquivo**](https://github.com/guilhermessalustiano/trocarquivo) | API e interface web para envio, listagem e troca de arquivos, com exemplos de deploy em Linux (systemd + Nginx) e Windows. | Node.js · HTML · CSS · JavaScript · Nginx |
 | [**Venda de Ingressos Distribuída**](https://github.com/guilhermessalustiano/sistema-distribuido-venda-ingressos) | Venda de ingressos com estoque limitado para a disciplina de Sistemas Distribuídos: sessões em máquinas diferentes disputam os mesmos ingressos sem ultrapassar a capacidade. | HTML · CSS · JavaScript · Supabase · PostgreSQL |
 | [**Portfólio**](https://github.com/guilhermessalustiano/guilhermessalustiano.github.io) | Site pessoal hospedado no GitHub Pages. | HTML · CSS · JavaScript |
