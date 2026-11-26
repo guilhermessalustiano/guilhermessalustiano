@@ -72,7 +72,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [**SCACE**](https://github.com/guilhermessalustiano/scace) | Sistema de Cálculo de Custo de Entrega para entregadores de plataformas como Mercado Livre, Shopee e iFood. Gerencia agências, veículos, usuários e rotas, calculando o gasto de combustível de cada rota. | React · Vite · Tailwind · Node.js · Express |
-| [**Venda de Ingressos Distribuída**](https://github.com/guilhermessalustiano/sistema-distribuido-venda-ingressos) | Venda de ingressos com estoque limitado para a disciplina de Sistemas Distribuídos: sessões em máquinas diferentes disputam os mesmos ingressos sem ultrapassar a capacidade. | JavaScript · Supabase · PostgreSQL |
+| [**SCACE**](https://github.com/guilhermessalustiano/scace) | Sistema de Cálculo de Custo de Entrega para entregadores de plataformas como Mercado Livre, Shopee e iFood. Gerencia agências, veículos, usuários e rotas, calculando o gasto de combustível de cada rota. | React · Node.js · Prisma · MariaDB |
+| [**TCC**](https://github.com/guilhermessalustiano/tcc-2) | Sistema Web para Ateliê e Estúdio de Tatuagem (Kolô), com venda e catálogo de obras, agendamento para tatuagem, cadastro de visitantes, clientes, artistas e administradores. Desenvolvido em grupo | React · Next.js · Prisma · PostgreSQL
 | [**TrocArquivo**](https://github.com/guilhermessalustiano/trocarquivo) | API e interface web para envio, listagem e troca de arquivos, com exemplos de deploy em Linux (systemd + Nginx) e Windows. | Node.js · HTML · CSS · JavaScript · Nginx |
+| [**Venda de Ingressos Distribuída**](https://github.com/guilhermessalustiano/sistema-distribuido-venda-ingressos) | Venda de ingressos com estoque limitado para a disciplina de Sistemas Distribuídos: sessões em máquinas diferentes disputam os mesmos ingressos sem ultrapassar a capacidade. | HTML · CSS · JavaScript · Supabase · PostgreSQL |
 | [**Portfólio**](https://github.com/guilhermessalustiano/guilhermessalustiano.github.io) | Site pessoal hospedado no GitHub Pages. | HTML · CSS · JavaScript |
