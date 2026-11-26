@@ -10,7 +10,7 @@ Estagiário de TI na Unicamp (Nudecri / Labjor) desde 2024, atuando com desenvol
 Atualmente focado em projetos pessoais e acadêmicos para aprimorar meus conhecimentos.
 
 <a href="https://www.linkedin.com/in/guilherme-salustiano/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:guilherme.salu05@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
