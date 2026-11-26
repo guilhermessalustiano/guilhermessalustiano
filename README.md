@@ -1,13 +1,15 @@
 <!-- ===================== CABEÇALHO ===================== -->
+<div>
 <div align="center">
 
-# Olá! Eu sou Guilherme Salustiano 👋
+# Guilherme Salustiano
 
-**Graduando em Ciência da Computação · Desenvolvedor Web & Python · Administrador de Sistemas Linux**
+**Ciência da Computação · Desenvolvedor Web & Python · Administrador de Sistemas Linux**
 
-Formado Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (ETEC Bento Quirino) e cursando o 7º semestre de Ciência da Computação na UNIP.
-Estagiário de TI na Unicamp (Nudecri / Labjor) desde 2024, atuando com desenvolvimento web e administração de servidores.
-Atualmente focado em projetos pessoais e acadêmicos para aprimorar meus conhecimentos.
+</div>
+
+- Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (ETEC Bento Quirino)
+- Ciência da Computação (UNIP).
 
 <a href="https://www.linkedin.com/in/guilherme-salustiano/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
