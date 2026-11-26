@@ -2,9 +2,9 @@
 <div>
 <div align="center">
 
-# Guilherme Salustiano
+# GUILHERME SALUSTIANO
 
-**Ciência da Computação · Desenvolvedor Web & Python · Administrador de Sistemas Linux**
+**Desenvolvimento · Infraestrutura**
 
 </div>
 
